@@ -191,7 +191,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="2140"></int>
+                  <int value="2153"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -205,7 +205,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="45_109_2.5"></unicode>
+                <unicode value="45_109_2.6"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -216,7 +216,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Guia_para_actividad.PNG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp2y_ldq\\Guia_para_actividad.PNG"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpah8wwv\\Guia_para_actividad.PNG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="81e4a6f484e1c1d5f0ae8fe479d15590"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -245,7 +245,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="6"></int>
+           <int value="7"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -384,7 +384,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="2141"></int>
+                  <int value="2152"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -398,7 +398,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.89"></unicode>
+                <unicode value="0_113_2.92"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
@@ -407,11 +407,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="logo_ues.jpg"></string>
+                  <string value="Entrada.gif"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmp2y_ldq\\logo_ues.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpah8wwv\\Entrada.gif"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
+                  <string value="f9051d0645f06b0410284eebd2758e5a"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -436,7 +436,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="2145"></int>
+                  <int value="2155"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -450,7 +450,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.91"></unicode>
+                <unicode value="0_113_2.93"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="9">
                  <dictionary>
@@ -459,11 +459,11 @@
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="Entrada.gif"></string>
+                  <string value="logo_ues.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpll3h_c.eXe\\previews\\allyourbase\\Entrada.gif"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpah8wwv\\logo_ues.jpg"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="f9051d0645f06b0410284eebd2758e5a"></string>
+                  <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -490,7 +490,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="92"></int>
+           <int value="94"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -623,7 +623,7 @@
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt; color: #800000;&quot;&gt;ISSUU&lt;/span&gt; &lt;/strong&gt;herramienta que permite &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;hacer publicación digital de información de una forma sencilla. &lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;La App se puede encontrar en &lt;strong&gt;&lt;span style=&quot;color: #008080;&quot;&gt;&lt;a href=&quot;https://issuu.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; style=&quot;color: #008080;&quot;&gt;https://issuu.com/&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;800&quot; src=&quot;resources/ISSUU.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;800&quot; src=&quot;resources/ISSUU.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt; color: #000000;&quot;&gt;Como complemento, pueden ver un tutorial de uso en el siguiente vídeo.&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center license-CC0&quot; style=&quot;width: 900px;&quot;&gt;&lt;iframe width=&quot;900&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/dzNr-D6bsDA&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
@@ -649,7 +649,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2146"></int>
+                     <int value="2159"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -663,7 +663,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="43_108_2.37"></unicode>
+                   <unicode value="43_108_2.40"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -674,9 +674,9 @@
                      <string role="key" value="_storageName"></string>
                      <string value="ISSUU.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpll3h_c.eXe\\previews\\allyourbase\\ISSUU.pdf"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpsjcogj.eXe\\previews\\allyourbase\\ISSUU.pdf"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="4d47897a8bb3c214030eec7e567ed901"></string>
+                     <string value="af992d747c63c301837ef544b69506f5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -703,7 +703,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="38"></int>
+              <int value="41"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -844,13 +844,12 @@
 &lt;div class=&quot;exe-col exe-col-2&quot;&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Realizar de manera individual, una publicación tipo revista electrónica, sobre el tema &quot;Recursos Digitales para la Innovación Universitaria&quot; desde el punto de vista del Programa Educativo al que &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;corresponden, en este caso &lt;/span&gt;&lt;strong&gt;LICENCIADO EN ADMINISTRACIÓN DE EMPRESAS.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;.&lt;/strong&gt; &lt;/span&gt;Utilizar las siguientes referencias y/o podrán complementar con información encontrada en el &lt;strong&gt;WIKI de la actividad 7&lt;/strong&gt; y algún otro repositorio académico o fuente confiable para extraer&lt;strong&gt; información de 5 recursos digitales que puedan ser útiles a su perfil académico y profesional de Lic. en Administración de Empresas.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Realizar de manera individual, una publicación tipo revista electrónica, sobre el tema &quot;Recursos Digitales para la Innovación Universitaria&quot; desde el punto de vista del Programa Educativo al que &lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;corresponden, en este caso &lt;/span&gt;&lt;strong&gt;LICENCIADO EN CONTABILIDAD.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;.&lt;/strong&gt; &lt;/span&gt;Utilizar las siguientes referencias y/o podrán complementar con información encontrada en el &lt;strong&gt;WIKI de la actividad 7&lt;/strong&gt; y algún otro repositorio académico o fuente confiable para extraer&lt;strong&gt; información de 5 recursos digitales que puedan ser útiles a su perfil académico y profesional de Lic. en Contabilidad.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;a href=&quot;https://elibro.net/es/lc/ues/login_usuario/?next=/es/ereader/ues/158283?page=113&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Las tecnologías de la Información y la comunicación en la praxis universitaria.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://www.aulaplaneta.com/2015/07/14/recursos-tic/25-herramientas-tic-para-aplicar-el-aprendizaje-colaborativo-en-el-aula-y-fuera-de-ella-infografia/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;25 herramientas TIC para aplicar el aprendizaje colaborativo en el aula y fuera de ella&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://internetpasoapaso.com/mejores-programas-servicios-almacenamiento-nube/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;¿Cuáles son los mejo&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://internetpasoapaso.com/mejores-programas-servicios-almacenamiento-nube/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;res programas y servicios de almacenamiento de la nube para respaldar información? Lista 2021&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;http://www.manuelfandos.es/10-herramientas-de-la-nube-imprescindibles-para-la-formacion-on-line/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;10 herramientas de la nube imprescindibles para la formación online.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.aulaplaneta.com/index.php/2015/07/14/infografias/25-herramientas-tic-para-aplicar-el-aprendizaje-colaborativo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;25 herramientas TIC para aplicar el aprendizaje colaborativo en el aula y fuera de ella&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://internetpasoapaso.com/mejores-programas-servicios-almacenamiento-nube/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;¿Cuáles son los mejo&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://internetpasoapaso.com/mejores-programas-servicios-almacenamiento-nube/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;res programas y servicios de almacenamiento de la nube para respaldar información? Lista 2024&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;a href=&quot;https://www.hostinger.es/tutoriales/mejores-herramientas-de-colaboracion-en-linea&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;18 Mejores herramientas de colaboración en línea para trabajo remoto.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
@@ -863,22 +862,23 @@
 &lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 24pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #800000; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;2. &lt;/strong&gt;&lt;/span&gt;Una vez identificados los recursos, &lt;strong&gt;desarrollar un documento en Word, o en Powerpoint en relación a esos 5 recursos. &lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #000000; font-size: 24pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #800000; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;Consideraciones para la preparación de la evidencia:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Título de cada recurso digital, definición y &lt;strong&gt;la importancia de utilizarse en el ámbito de Licenciado en Administración de Empresas.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Incorporar por cada Recurso: &lt;strong&gt;Título&lt;/strong&gt;, &lt;strong&gt;definición, imágenes,&lt;/strong&gt;&lt;strong&gt; importancia de utilizarse en el ámbito de Licenciado en Contabilidad &lt;/strong&gt;y&lt;strong&gt; Referencia &lt;/strong&gt;de donde se obtuvo la información&lt;strong&gt;.&lt;br /&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Contener como parte del material: &lt;strong&gt;Nombre del estudiante, logo institucional de UES y fecha.&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;color: #000000; font-size: 24pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #800000; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Debe estar estructurado de manera clara y precisa. Con texto apropiado según el tema. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Imágenes de acuerdo a lo que deseen expresar. &lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;El diseño general lo determina cada estudiante.&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Respetar reglas de ortografía, gramática y sintaxis.&lt;/span&gt;&lt;span style=&quot;color: #000000; font-size: 24pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #800000; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Referencias utilizadas en Formato APA.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt; text-align: left;&quot;&gt;Referencias utilizadas en &lt;strong&gt;Formato APA&lt;/strong&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;3.  &lt;/strong&gt;&lt;span style=&quot;color: #000000; font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Convertir el archivo en PDF y establecerle el nombre &lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;EC3-ACT10-APELLIDOS.&lt;/strong&gt;&lt;/span&gt; Este es un ejemplo con 3 recursos, la evidencia a presentar debe contener 5 recursos.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;600&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;resources/EC3-ACT10-EJEMPLO.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000; font-size: 18pt;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;600&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; src=&quot;resources/EC3-ACT10-EJEMPLO.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;4. &lt;/strong&gt; &lt;/span&gt;El archivo en PDF publicarlo en la Web. Para la publicación consideren la  &lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;APP ISSUU.&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #800000; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;5. &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Enviar para su revisión el&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;strong&gt; enlace de la publicación y subir, además, la evidencia en PDF&lt;/strong&gt; a través del área establecida para ello en la Plataforma Educativa Institucional.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Resultado del Ejemplo: &lt;a href=&quot;https://issuu.com/ticsues/docs/ec3-act10-ejemplo.pptx&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://issuu.com/ticsues/docs/ec3-act10-ejemplo.pptx&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Resultado del Ejemplo: &lt;a href=&quot;https://issuu.com/epaf/docs/ec3-act10-ejemplo&quot;&gt;https://issuu.com/epaf/docs/ec3-act10-ejemplo&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Para asegurarte que la evidencia contiene todo lo solicitado, verifica la Rúbrica de Evaluación.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -902,7 +902,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2147"></int>
+                     <int value="2150"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -916,7 +916,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_108_2.19"></unicode>
+                   <unicode value="42_108_2.22"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -927,7 +927,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="actividad.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpll3h_c.eXe\\previews\\allyourbase\\actividad.gif"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpah8wwv\\actividad.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="04091e29dc17f9336f4bc6b50d92cfbf"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -954,7 +954,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2148"></int>
+                     <int value="2156"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -968,7 +968,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_108_2.20"></unicode>
+                   <unicode value="42_108_2.24"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -977,11 +977,11 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="EC3-ACT10-EJEMPLO.pdf"></string>
+                     <string value="Rubrica_de_Evaluacion_Act10.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpll3h_c.eXe\\previews\\allyourbase\\EC3-ACT10-EJEMPLO.pdf"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpah8wwv\\Rubrica_de_Evaluacion_Act10.pdf"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="3c2fd3d027bcea26a5c1cd7f5c3f4e5d"></string>
+                     <string value="0fd2be0de09dbab3b0fe18c0bff27c26"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1006,7 +1006,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2149"></int>
+                     <int value="2157"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1020,7 +1020,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_108_2.21"></unicode>
+                   <unicode value="42_108_2.25"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -1029,11 +1029,11 @@
                      <string role="key" value="_package"></string>
                      <reference key="2"></reference>
                      <string role="key" value="_storageName"></string>
-                     <string value="Rubrica_de_Evaluacion_Act10.pdf"></string>
+                     <string value="EC3-ACT10-EJEMPLO.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpll3h_c.eXe\\previews\\allyourbase\\Rubrica_de_Evaluaci\xc3\xb3n_Act10.pdf"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpsjcogj.eXe\\previews\\allyourbase\\EC3-ACT10-EJEMPLO.pdf"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="0fd2be0de09dbab3b0fe18c0bff27c26"></string>
+                     <string value="f1b3171ed0efe60e25309884a6cd97f9"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1060,7 +1060,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="22"></int>
+              <int value="26"></int>
               <string role="key" value="parentNode"></string>
               <reference key="16"></reference>
              </dictionary>
@@ -2375,7 +2375,7 @@
   <string role="key" value="mxmlwidth"></string>
   <string value=""></string>
   <string role="key" value="release"></string>
-  <string value="2.5"></string>
+  <string value="2.8.1"></string>
   <string role="key" value="resources"></string>
   <dictionary>
    <string role="key" value="04091e29dc17f9336f4bc6b50d92cfbf"></string>
@@ -2384,27 +2384,27 @@
    </list>
    <string role="key" value="0fd2be0de09dbab3b0fe18c0bff27c26"></string>
    <list>
-    <reference key="19"></reference>
-   </list>
-   <string role="key" value="3c2fd3d027bcea26a5c1cd7f5c3f4e5d"></string>
-   <list>
     <reference key="18"></reference>
-   </list>
-   <string role="key" value="4d47897a8bb3c214030eec7e567ed901"></string>
-   <list>
-    <reference key="13"></reference>
    </list>
    <string role="key" value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
    <list>
-    <reference key="8"></reference>
+    <reference key="9"></reference>
    </list>
    <string role="key" value="81e4a6f484e1c1d5f0ae8fe479d15590"></string>
    <list>
     <reference key="5"></reference>
    </list>
+   <string role="key" value="af992d747c63c301837ef544b69506f5"></string>
+   <list>
+    <reference key="13"></reference>
+   </list>
+   <string role="key" value="f1b3171ed0efe60e25309884a6cd97f9"></string>
+   <list>
+    <reference key="19"></reference>
+   </list>
    <string role="key" value="f9051d0645f06b0410284eebd2758e5a"></string>
    <list>
-    <reference key="9"></reference>
+    <reference key="8"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
